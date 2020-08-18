@@ -1,0 +1,22 @@
+请在本地hosts文件中配置域名映射。
+即在 C:\Windows\System32\drivers\etc\hosts 中添加如下域名映射:
+10.200.5.13 console.kmmobile.com
+10.200.5.13 auth.kmmobile.com
+10.200.5.13 docs.kmmobile.com
+10.200.4.42 oc.kmmmobileoc.com
+10.200.26.13 nova-novncproxy.az0.dc0.kmmobile.com
+10.200.38.12 nova-novncproxy.az1.dc1.kmmobile.com
+ 
+运维地址：
+https://oc.kmmmobileoc.com:31943
+运营地址：
+https://console.kmmobile.com
+ 
+ 
+用户名：hanjiafu
+密码：QAZwsx12!@
+
+
+VPN
+https://39.130.147.131:4431
+用户名zhangpan/QAZwsx12#$
